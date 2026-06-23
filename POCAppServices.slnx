@@ -1,4 +1,13 @@
 <Solution>
   <Project Path="POCAppServices/POCAppServices.csproj" />
   <Project Path="POCFunctionApp/POCFunctionApp.csproj" Id="85b54ea0-324a-44c1-9d71-53148dbc73cb" />
+  <Project Path="src/Broker.API/Broker.API.csproj" Id="dab8f331-6af7-4c19-b7b2-33c36f5e994d" />
+  <Project Path="src/Broker.Application/Broker.Application.csproj" Id="761e66a7-bcda-457b-9d48-884e690d0f56" />
+  <Project Path="src/Broker.Domain/Broker.Domain.csproj" Id="fcac096d-1fad-499c-941e-206a566394c8" />
+  <Project Path="src/Broker.Functions.Kyc/Broker.Functions.Kyc.csproj" Id="765b5bbd-cac1-4b08-9541-18b2471db22f" />
+  <Project Path="src/Broker.Functions.Notification/Broker.Functions.Notification.csproj" Id="e9fda774-e5fe-4642-8300-1f817a4422d5" />
+  <Project Path="src/Broker.Functions.Policy/Broker.Functions.Policy.csproj" Id="80f7040a-00cd-4cb4-94c2-fefdb33cc1e3" />
+  <Project Path="src/Broker.Functions.Quotes/Broker.Functions.Quotes.csproj" Id="5c46c4e1-7cc7-4f19-a6a2-dc2c2ba65b6d" />
+  <Project Path="src/Broker.Infrastructure/Broker.Infrastructure.csproj" Id="b4bf8b24-03c7-4cd8-be84-aef28000820e" />
+  <Project Path="src/Broker.Shared/Broker.Shared.csproj" Id="9801eb0e-2c09-463a-8b7e-95f873247c6f" />
 </Solution>

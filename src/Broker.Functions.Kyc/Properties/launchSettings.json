@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Broker.Functions.Kyc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7206",
+      "launchBrowser": false
+    }
+  }
+}
